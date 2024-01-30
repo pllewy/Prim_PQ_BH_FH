@@ -5,6 +5,8 @@
 #ifndef FIBONACCIHEAP_FIBONACCIHEAP_H
 #define FIBONACCIHEAP_FIBONACCIHEAP_H
 
+#include <climits>
+
 using namespace std;
 
 struct FH_Node {

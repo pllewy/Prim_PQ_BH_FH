@@ -5,6 +5,8 @@
 #ifndef BINOMIALHEAP_BINOMIALHEAP_H
 #define BINOMIALHEAP_BINOMIALHEAP_H
 
+#include <climits>
+
 using namespace std;
 
 struct BH_Node {
